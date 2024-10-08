@@ -14,8 +14,8 @@ body {
 
 .header__avatar {
   border-radius: 50%;
-  height:  320px;
-  width:  320px;
+  height:  340px;
+  width:  340px;
 
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .links {
-  width: 320px;
+  width: 340px;
   margin-bottom: 40px;
 }
 
@@ -75,7 +75,7 @@ body {
   padding: 0px 0px 10px;
   gap: 30px;
   border-bottom: 1px solid #dadada;
-  width: 280px;
+  width: 300px;
 }
 
 .links__link:last-child {
